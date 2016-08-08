@@ -5,4 +5,4 @@ This uses the default with the player and music tests. Additionally I've added t
 
 Pending tests (unfinished tests) are called using xit. Also there are 3 manual fail specs that read in the console.error if you open inspect the window.
 
-Access git web page (here)[https://lastlink.github.io/jasmine-unit_tests/]
+Access git web page [here](https://lastlink.github.io/jasmine-unit_tests/)
