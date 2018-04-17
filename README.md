@@ -7,8 +7,8 @@ Pending tests (unfinished tests) are called using xit. Also there are 3 manual f
 
 This repository also uses git pages to host itself on gh-pages branch.
 
-##Link:
+## Link:
 Access git web page [here](https://lastlink.github.io/jasmine-unit_tests/)
 
-##Documentation for git pages setup:
+## Documentation for git pages setup:
 [Link](https://pages.github.com/)
